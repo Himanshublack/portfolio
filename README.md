@@ -1,8 +1,8 @@
 # `New` Portfolio Website
 
-[Demo](https://pranshuportfolio.netlify.app)
+[Demo](https://himanshusingh-nu.vercel.app/)
 
-Heya, Guys on this side **Pranshu Jain** !!. Here is my new Portfolio website and with updated plesant UI & UX and gives more better experience.
+Heya, Guys on this side **HIMANSHU SINGH** !!. Here is my new Portfolio website and with updated plesant UI & UX and gives more better experience.
 
 ## Tech Technologies Used
 
