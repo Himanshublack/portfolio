@@ -3,17 +3,17 @@
     "name": "Pranshu Jain - Portfolio",
     "icons": [
       {
-        "src": "Icon-16.png",
+        "src": "Icon.jpg",
         "sizes": "16x16",
         "type": "image/png"
       },
       {
-        "src": "Icon-196.png",
+        "src": "Icon.jpg",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "Icon-512.png",
+        "src": "Icon.jpg",
         "type": "image/png",
         "sizes": "512x512"
       }
