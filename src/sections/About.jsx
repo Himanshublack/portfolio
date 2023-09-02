@@ -1,5 +1,5 @@
 import React from "react";
-import ProfilePic from "../assets/passport.jpg";
+import ProfilePic from "../assets/passport.jpeg";
 import { animate, motion } from "framer-motion";
 import { animateSection } from "../utils/animateSection";
 
