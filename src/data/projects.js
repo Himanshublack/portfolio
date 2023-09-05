@@ -23,7 +23,7 @@ export const data = {
     {
       title: "Spam And Non-Spam classifier",
       description:
-        "",
+        "A spam and non-spam classifier, also known as an email spam filter or simply a spam filter, is a common application of machine learning (ML) in the field of natural language processing (NLP). Its primary goal is to automatically categorize incoming emails as either spam (unwanted or unsolicited messages) or non-spam (legitimate messages) to help users manage their email inboxes effectively. ",
       technologies: ["Python", "NLTK", "Matplotlib", "Sci-kit Learn"],
       github: "https://github.com/Himanshublack/spam_and_non_spam_sms",
       // website: "https://healthpilot.vercel.app",
