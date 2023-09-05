@@ -65,7 +65,7 @@ const Experience = () => {
         <div className="flex w-full lg:w-[fit-content] h-[fit-content]">
           <ul className="flex lg:flex-col overflow-x-scroll no-scrollbar">
             {/* TeamLead */}
-{/*             <li
+            <li
               onClick={handleTeamLead}
               className={`${
                 workTeamLead
@@ -81,10 +81,10 @@ const Experience = () => {
                 C4GT'23
               </span>
               <br />
-            </li> */}
+            </li>
 
             {/* QA */}
-{/*             <li
+            <li
               onClick={handleQA}
               className={`${
                 workQA
@@ -97,10 +97,10 @@ const Experience = () => {
               >
                 Digilocker
               </span>
-            </li> */}
+            </li>
 
             {/* Internship */}
-{/*             <li
+            <li
               onClick={handleInternship}
               className={`${
                 workInternship
@@ -116,10 +116,10 @@ const Experience = () => {
                 Parentheses Labs
               </span>
               <br />
-            </li> */}
+            </li>
 
             {/* StartUp */}
-{/*             <li
+             <li
               onClick={handleStartUp}
               className={`${
                 workStartUp
@@ -132,13 +132,13 @@ const Experience = () => {
                   workStartUp ? "text-textGreen" : "text-textDark"
                 }`}
               >
-{/*                 Omikron Technologies */}
+              Omikron Technologies 
               </span>
               <br />
             </li> */}
 
             {/* Freelance */}
-            {/* <li
+            <li
               onClick={handleFreelance}
               className={`${
                 workFreelance
@@ -147,7 +147,7 @@ const Experience = () => {
               } border-l-2 border-l-textGreen text-textDark bg-transparent hover:bg-[#112240] py-3 text-xs cursor-pointer duration-300 px-8 font-medium md:text-sm `}
             >
               Freelance
-            </li> */}
+            </li>
           </ul>
         </div>
 
