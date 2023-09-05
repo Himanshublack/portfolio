@@ -144,7 +144,7 @@ function Credits() {
           className=" flex flex-col text-theme-light-slate items-center text-[12px] font-sfMonoRegular mb-2 hover:text-theme-green"
         >
           Created by
-          <div className="mt-1">Pranshu Jain</div>
+          <div className="mt-1">Himanhsu Singh</div>
         </a>
         <a
           href="https://github.com/bchiang7"
